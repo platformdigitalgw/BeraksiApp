@@ -25,6 +25,7 @@
     "@babel/helper-string-parser": "^7.25.9",
     "@babel/helper-validator-identifier": "^7.25.9",
     "@babel/types": "^7.26.5",
+    "@capacitor/android": "^6.2.0",
     "@capacitor/preferences": "^6.0.3",
     "@cspotcode/source-map-support": "^0.8.1",
     "@deno/kv": "^0.9.0",
